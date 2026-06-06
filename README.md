@@ -1,6 +1,6 @@
 <!--update1-->
 <!--woah-->
-![Kade Engine logo](assets/preload/images/Gemini_Generated_Image_sh3dxfsh3dxfsh3d.png)
+![Kade Engine logo](assets/base_game/shared/images/Gemini_Generated_Image_c86zmec86zmec86z.png)
 
  [![Discord](https://discord.gg/qw2xjhRN) 
 
